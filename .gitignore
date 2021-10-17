@@ -1,0 +1,4 @@
+*.msh
+*.stp
+*.bdf
+*.geo_unrolled
